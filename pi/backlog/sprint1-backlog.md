@@ -1,6 +1,6 @@
 # Sprint Backlog 1 — [nombre de tu proyecto]
 **Periodo:** 14 de septiembre – 2 de octubre de 2026  
-**Responsable:** [tu nombre]  
+**Responsable:** Hugo Gimenez Sorribes
 
 ## Objetivo general del Sprint 1
 Construir el incremento base v0.1: definir el análisis técnico del proyecto, configurar el taller digital con Git/IntelliJ y programar el primer motor de cálculo secuencial en Java.
